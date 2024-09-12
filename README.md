@@ -1,6 +1,6 @@
 # Harshad Ravindra Patil
 
-<p align="center">
+<p>
   <strong>Location</strong>: Toronto, ON  
   <strong>Phone</strong>: +16478915644  
   <strong>Email</strong>: <a href="mailto:harshadp1314@gmail.com">harshadp1314@gmail.com</a>  
