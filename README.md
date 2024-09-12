@@ -1,13 +1,11 @@
 # Harshad Ravindra Patil
 
-<p align="left">
-  <img src="profile.jpg" alt="Harshad Patil" width="150" height="150">
+<p align="center">
+  <strong>Location</strong>: Toronto, ON  
+  <strong>Phone</strong>: +16478915644  
+  <strong>Email</strong>: <a href="mailto:harshadp1314@gmail.com">harshadp1314@gmail.com</a>  
+  <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/harshadrpatil" target="_blank">linkedin.com/in/harshadrpatil</a>
 </p>
-
-**Location**: Toronto, ON  
-**Phone**: +16478915644  
-**Email**: [harshadp1314@gmail.com](mailto:harshadp1314@gmail.com)  
-**LinkedIn**: [linkedin.com/in/harshadrpatil](https://linkedin.com/in/harshadrpatil/)
 
 ---
 
@@ -45,4 +43,25 @@ _May 2018_
 
 ### Finacus Solutions Pvt Ltd, Mumbai, India  
 **Junior Data Analyst** (January 2019 – February 2021)  
-- Reduced default rates by 12% 
+- Reduced default rates by 12% through credit risk analysis and model development.
+- Automated data workflows using Python and ETL pipelines, saving 2 hours daily and enhancing data accuracy.
+
+---
+
+## Skills
+
+- **Programming Languages**: Python, SQL (MSSQL, MySQL, PostgreSQL)
+- **Data Analysis Tools**: Power BI, Tableau, Jupyter Notebook
+- **Cloud Infrastructure**: AWS (EC2, S3, RDS, Glue, Lambda)
+- **ETL and Data Pipelines**: AWS Glue, Redshift, CloudWatch, Athena
+- **Machine Learning**: Time Series Analysis, Predictive Modeling
+- **Version Control**: GitHub
+- **Productivity Tools**: Microsoft Office Suite, Jira
+
+---
+
+## Projects
+
+- **Credit Risk Model Optimization**: Enhanced loan approval times by 30% and reduced default rates by 12% using ARIMA-based forecasting and detailed credit analysis.
+- **Policy Compliance Enhancement**: Increased policy adherence by 15% through comprehensive reviews and updates of risk management policies.
+- **ETL Framework Engineering**: Implemented and automated a large-scale ETL framework using AWS services, improving data management and business insights.
