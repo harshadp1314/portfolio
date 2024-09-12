@@ -1,3 +1,10 @@
 # add the following to _config.yml file
 title: Harshad Ravindra Patil
 theme: jeykll-theme-minimal
+
+logo: profile.jpeg
+#description: text below image
+show_downloads: false
+
+# layout: single
+# classes: wide
