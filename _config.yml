@@ -1,6 +1,6 @@
 # add the following to _config.yml file
 title: Harshad Ravindra Patil
-theme: jeykll-theme-minimal
+theme: jekyll-theme-minimal
 
 logo: profile.jpeg
 #description: text below image
