@@ -1,4 +1,4 @@
-# Harshad Ravindra Patil
+# Harshad Patil
 
 <p>
   <strong>Location</strong>: Toronto, ON  
